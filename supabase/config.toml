@@ -1,0 +1,13 @@
+project_id = "ovjojszqlyhlelkzrqqw"
+
+[functions.analyze-acceptance-criteria]
+verify_jwt = false
+
+[functions.analyze-understanding]
+verify_jwt = false
+
+[functions.analyze-test-validation]
+verify_jwt = false
+
+[functions.analyze-recommendation]
+verify_jwt = false
